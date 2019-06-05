@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<datasource>
+       
+<!--
+     <driver>oracle.jdbc.driver.OracleDriver</driver>
+	 <url>jdbc.url=jdbc:oracle:thin:@127.0.0.1:12521:xe</url>
+	 <username>lwweb</username>
+	 <password>x5</password>
+
+	 <driver>net.sourceforge.jtds.jdbc.Driver</driver>
+	 <url>jdbc:jtds:sqlserver://83.2.80.131:1433/lwweb</url>
+	 <username>sa</username>
+	 <password>XJbmj20130828!</password> 
+	
+-->
+	 <driver>com.kingbase.Driver</driver>
+     <url>jdbc:kingbase://localhost:54321/LWWEB</url>
+     <username>system</username>
+     <password>x5</password>
+</datasource>
